@@ -14,6 +14,7 @@
 		AF68EC7823CF77DD00362D88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF68EC7623CF77DD00362D88 /* Main.storyboard */; };
 		AF68EC7A23CF77DE00362D88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF68EC7923CF77DE00362D88 /* Assets.xcassets */; };
 		AF68EC7D23CF77DE00362D88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF68EC7B23CF77DE00362D88 /* LaunchScreen.storyboard */; };
+		AF68EC8523CF793000362D88 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF68EC8423CF793000362D88 /* City.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AF68EC7923CF77DE00362D88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF68EC7C23CF77DE00362D88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF68EC7E23CF77DE00362D88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF68EC8423CF793000362D88 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AF68EC6E23CF77DD00362D88 /* AppDelegate.swift */,
 				AF68EC7023CF77DD00362D88 /* SceneDelegate.swift */,
 				AF68EC7223CF77DD00362D88 /* MasterViewController.swift */,
+				AF68EC8423CF793000362D88 /* City.swift */,
 				AF68EC7423CF77DD00362D88 /* DetailViewController.swift */,
 				AF68EC7623CF77DD00362D88 /* Main.storyboard */,
 				AF68EC7923CF77DE00362D88 /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF68EC6F23CF77DD00362D88 /* AppDelegate.swift in Sources */,
+				AF68EC8523CF793000362D88 /* City.swift in Sources */,
 				AF68EC7123CF77DD00362D88 /* SceneDelegate.swift in Sources */,
 				AF68EC7323CF77DD00362D88 /* MasterViewController.swift in Sources */,
 				AF68EC7523CF77DD00362D88 /* DetailViewController.swift in Sources */,
